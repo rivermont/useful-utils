@@ -13,13 +13,16 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
   - [Tools](#tools)
     - [Software](#software)
       - [Bulk Renamer Utility](#bulk-renamer-utility)
+	  - [spidy Web Crawler](#spidy-web-crawler)
 	- [Websites](#websites)
+	  - [Changelly](#changelly)
 	  - [docuPub Document Converter](#docupub-document-converter)
 	  - [dr.tl](#drtl)
 	  - [PassMark CPUBenchmark](#passmark-cpubenchmark)
 	  - [QR Code Generator](#qr-code-generator)
       - [Save It Offline](#save-it-offline)
       - [SMMRY](#smmry)
+	  - [Steam App IDs](#steam-app-ids)
 	  - [Terrasavr](#terrasavr)
       - [The Alphabetizer](#the-alphabetizer)
   - [Snippets](#snippets)
@@ -52,7 +55,13 @@ Tools are (usually) small softwares that are designed with one task in mind and 
 [Bulk Renamer Utility](http://www.bulkrenameutility.co.uk/Main_Intro.php) - Bulk Rename Utility
 Free File Rename Utility for Windows. Rename multiple files with the click of a button. Batch renaming made easy.
 
+### spidy Web Crawler
+[spidy](https://github.com/rivermont/spidy) - rivermont
+
 ## Websites
+
+### Changelly
+[Changelly](https://changelly.com/)
 
 ### docuPub Document Converter
 [Document Converter](#https://docupub.com/pdfconvert/) - Neevia Tech
@@ -74,6 +83,9 @@ It also has other features like IP logging, so if you're into data collection th
 
 ### SMMRY
 [SMMRY](http://smmry.com/) - Smmry.com
+
+### Steam App IDs
+[Steam App Database](https://steamdb.info/apps/) - SteamDB
 
 ### Terrasavr
 [Terrasavr](http://yal.cc/r/terrasavr/) - YellowAfterLife
