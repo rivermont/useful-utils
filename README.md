@@ -19,6 +19,7 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
 	  - [docuPub Document Converter](#docupub-document-converter)
 	  - [dr.tl](#drtl)
 	  - [PassMark CPUBenchmark](#passmark-cpubenchmark)
+	  - [Python Visualizer](#python-visualizer)
 	  - [QR Code Generator](#qr-code-generator)
       - [Save It Offline](#save-it-offline)
       - [SMMRY](#smmry)
@@ -61,7 +62,7 @@ Free File Rename Utility for Windows. Rename multiple files with the click of a 
 ## Websites
 
 ### Changelly
-[Changelly](https://changelly.com/)
+[Changelly](https://changelly.com/) - MinerGate
 
 ### docuPub Document Converter
 [Document Converter](#https://docupub.com/pdfconvert/) - Neevia Tech
@@ -74,6 +75,9 @@ It also has other features like IP logging, so if you're into data collection th
 
 ### PassMark CPUBenchmark
 [CPUBenchmark](https://www.cpubenchmark.net/) - PassMark Software
+
+### Python Visualizer
+[Python Visualizer](http://www.pythontutor.com/visualize.html#) - Phillip Guo
 
 ### QR Code Generator
 [QR Code Generator](http://www.qr-code-generator.com/) - Denso Wave Incorporated
