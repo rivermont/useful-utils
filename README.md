@@ -29,13 +29,16 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
   - [Snippets](#snippets)
   - [Libraries](#libraries)
     - [lxml](#lxml)
+	- [Requests](#requests)
   - [Guides](#guides)
+    - [Installing Kali on VirtualBox](#installing-kali-on-virtualbox)
   - [Cool Sites](#cool-sites)
     - [Force Graph Drawer](#force-graph-drawer)
     - [Google Ngram Viewer](#google-ngram-viewer)
 	- [How Secure Is My Password](#how-secure-is-my-password)
   - [Resources](#resources)
     - [Stack Overflow](#stack-overflow)
+	- [Understanding Zip Bombs](#understanding-zip-bombs)
 
 
 # Languages
@@ -105,9 +108,17 @@ It also has other features like IP logging, so if you're into data collection th
 Libraries are 
 
 ## lxml
+[lxml](http://lxml.de/)
+A Python library for processing HTML and XML.
+
+## Requests
+[Requests](http://docs.python-requests.org/en/master/)
 
 
 # Guides
+
+## Installing Kali on VirtualBox
+[A Detailed Guide on Installing Kali Linux on Virtualbox](https://www.blackmoreops.com/2014/04/08/detailed-guide-installing-kali-linux-on-virtualbox/) - blackMORE Ops
 
 
 # Cool Sites
@@ -125,3 +136,7 @@ Libraries are
 # Resources
 
 ## Stack Overflow
+[Stack Overflow](https://stackoverflow.com/) - Stack Exchange Inc.
+
+## Understanding Zip Bombs
+[Zip Bombs](http://xeushack.com/zip-bomb) - XeusHack.com
