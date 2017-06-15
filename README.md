@@ -22,6 +22,7 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
 	  - [Python Visualizer](#python-visualizer)
 	  - [QR Code Generator](#qr-code-generator)
       - [Save It Offline](#save-it-offline)
+	  - [Shields.io](#shieldsio)
       - [SMMRY](#smmry)
 	  - [Steam App IDs](#steam-app-ids)
 	  - [Terrasavr](#terrasavr)
@@ -87,6 +88,9 @@ It also has other features like IP logging, so if you're into data collection th
 
 ### Save It Offline
 [Save It Offline](http://www.saveitoffline.com/) - SaveItOffline
+
+### Shields.io
+[Shields.io](https://shields.io/)
 
 ### SMMRY
 [SMMRY](http://smmry.com/) - Smmry.com
