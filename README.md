@@ -23,7 +23,6 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
     - [Brackets](#brackets)
     - [Discord](#discord)
     - [GitHub Desktop](#github-desktop)
-    - [Notepad++](#notepad--)
     - [Rainmeter](#rainmeter)
     - [Steam](#steam)
   - [Resources](#resources)
@@ -33,7 +32,9 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
   - [Tools](#tools)
     - [Software](#software)
       - [Bulk Renamer Utility](#bulk-renamer-utility)
+      - [Notepad++](#notepad)
       - [spidy Web Crawler](#spidy-web-crawler)
+      - [SDR#](#sdr)
       - [Visual Watermark](#visual-watermark)
     - [Websites](#websites)
       - [Changelly](#changelly)
@@ -95,8 +96,6 @@ A Python library for processing HTML and XML.
 
 ## GitHub Desktop
 
-## Notepad++
-
 ## Rainmeter
 
 ## Steam
@@ -122,6 +121,12 @@ Tools are (usually) small softwares that are designed with one task in mind and 
 ### Bulk Renamer Utility
 [Bulk Renamer Utility](http://www.bulkrenameutility.co.uk/Main_Intro.php) - Bulk Rename Utility
 Free File Rename Utility for Windows. Rename multiple files with the click of a button. Batch renaming made easy.
+
+### Notepad++
+[Notepad++](#https://notepad-plus-plus.org/) - Don Ho
+
+### SDR#
+[SDR#](http://airspy.com/download/) - airspy.com
 
 ### spidy Web Crawler
 [spidy](https://github.com/rivermont/spidy) - rivermont
