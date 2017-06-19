@@ -19,6 +19,13 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
   - [Libraries](#libraries)
     - [lxml](#lxml)
     - [Requests](#requests)
+  - [Programs](#programs)
+    - [Brackets](#brackets)
+    - [Discord](#discord)
+    - [GitHub Desktop](#github-desktop)
+    - [Notepad++](#notepad--)
+    - [Rainmeter](#rainmeter)
+    - [Steam](#steam)
   - [Resources](#resources)
     - [Stack Overflow](#stack-overflow)
     - [Understanding Zip Bombs](#understanding-zip-bombs)
@@ -27,6 +34,7 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
     - [Software](#software)
       - [Bulk Renamer Utility](#bulk-renamer-utility)
       - [spidy Web Crawler](#spidy-web-crawler)
+      - [Visual Watermark](#visual-watermark)
     - [Websites](#websites)
       - [Changelly](#changelly)
       - [docuPub Document Converter](#docupub-document-converter)
@@ -79,6 +87,21 @@ A Python library for processing HTML and XML.
 [Requests](http://docs.python-requests.org/en/master/)
 
 
+# Programs
+
+## Brackets
+
+## Discord
+
+## GitHub Desktop
+
+## Notepad++
+
+## Rainmeter
+
+## Steam
+
+
 # Resources
 
 ## Stack Overflow
@@ -102,6 +125,8 @@ Free File Rename Utility for Windows. Rename multiple files with the click of a 
 
 ### spidy Web Crawler
 [spidy](https://github.com/rivermont/spidy) - rivermont
+
+## Visual Watermark
 
 ## Websites
 
