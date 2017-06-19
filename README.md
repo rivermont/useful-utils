@@ -7,39 +7,57 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
 
 # Table of Contents
 
-  - [Languages](#languages)
-    - [HTML5 / CSS3](#html5--css3)
-    - [Python 3](#python-3)
-  - [Tools](#tools)
-    - [Software](#software)
-      - [Bulk Renamer Utility](#bulk-renamer-utility)
-	  - [spidy Web Crawler](#spidy-web-crawler)
-	- [Websites](#websites)
-	  - [Changelly](#changelly)
-	  - [docuPub Document Converter](#docupub-document-converter)
-	  - [dr.tl](#drtl)
-	  - [PassMark CPUBenchmark](#passmark-cpubenchmark)
-	  - [Python Visualizer](#python-visualizer)
-	  - [QR Code Generator](#qr-code-generator)
-      - [Save It Offline](#save-it-offline)
-	  - [Shields.io](#shieldsio)
-      - [SMMRY](#smmry)
-	  - [Steam App IDs](#steam-app-ids)
-	  - [Terrasavr](#terrasavr)
-      - [The Alphabetizer](#the-alphabetizer)
-  - [Snippets](#snippets)
-  - [Libraries](#libraries)
-    - [lxml](#lxml)
-	- [Requests](#requests)
-  - [Guides](#guides)
-    - [Installing Kali on VirtualBox](#installing-kali-on-virtualbox)
   - [Cool Sites](#cool-sites)
     - [Force Graph Drawer](#force-graph-drawer)
     - [Google Ngram Viewer](#google-ngram-viewer)
-	- [How Secure Is My Password](#how-secure-is-my-password)
+    - [How Secure Is My Password](#how-secure-is-my-password)
+  - [Guides](#guides)
+    - [Installing Kali on VirtualBox](#installing-kali-on-virtualbox)
+  - [Languages](#languages)
+    - [HTML5 / CSS3](#html5--css3)
+    - [Python 3](#python-3)
+  - [Libraries](#libraries)
+    - [lxml](#lxml)
+    - [Requests](#requests)
   - [Resources](#resources)
     - [Stack Overflow](#stack-overflow)
-	- [Understanding Zip Bombs](#understanding-zip-bombs)
+    - [Understanding Zip Bombs](#understanding-zip-bombs)
+  - [Snippets](#snippets)
+  - [Tools](#tools)
+    - [Software](#software)
+      - [Bulk Renamer Utility](#bulk-renamer-utility)
+      - [spidy Web Crawler](#spidy-web-crawler)
+    - [Websites](#websites)
+      - [Changelly](#changelly)
+      - [docuPub Document Converter](#docupub-document-converter)
+      - [dr.tl](#drtl)
+      - [PassMark CPUBenchmark](#passmark-cpubenchmark)
+      - [Python Visualizer](#python-visualizer)
+      - [QR Code Generator](#qr-code-generator)
+      - [Save It Offline](#save-it-offline)
+      - [Shields.io](#shieldsio)
+      - [SMMRY](#smmry)
+      - [Steam App IDs](#steam-app-ids)
+      - [Terrasavr](#terrasavr)
+      - [The Alphabetizer](#the-alphabetizer)
+
+
+# Cool Sites
+
+## Force Graph Drawer
+[Graph Drawer](http://g.ivank.net) - Ivan Kuckir
+
+## Google Ngram Viewer
+[Ngram Viewer](https://books.google.com/ngrams) - Google
+
+## How Secure Is My Password
+[How Secure Is My Password](https://howsecureismypassword.net/) - Small Hadron Collider / Dashlane
+
+
+# Guides
+
+## Installing Kali on VirtualBox
+[A Detailed Guide on Installing Kali Linux on Virtualbox](https://www.blackmoreops.com/2014/04/08/detailed-guide-installing-kali-linux-on-virtualbox/) - blackMORE Ops
 
 
 # Languages
@@ -47,8 +65,30 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
 
 ## HTML5 / CSS3
 
-
 ## Python 3
+
+
+# Libraries
+Libraries are 
+
+## lxml
+[lxml](http://lxml.de/)
+A Python library for processing HTML and XML.
+
+## Requests
+[Requests](http://docs.python-requests.org/en/master/)
+
+
+# Resources
+
+## Stack Overflow
+[Stack Overflow](https://stackoverflow.com/) - Stack Exchange Inc.
+
+## Understanding Zip Bombs
+[Zip Bombs](http://xeushack.com/zip-bomb) - XeusHack.com
+
+
+# Snippets
 
 
 # Tools
@@ -103,44 +143,3 @@ It also has other features like IP logging, so if you're into data collection th
 
 ### The Alphabetizer
 [Alphabetizer](http://alphabetizer.flap.tv/) - Chad Lieberman
-
-
-# Snippets
-
-
-# Libraries
-Libraries are 
-
-## lxml
-[lxml](http://lxml.de/)
-A Python library for processing HTML and XML.
-
-## Requests
-[Requests](http://docs.python-requests.org/en/master/)
-
-
-# Guides
-
-## Installing Kali on VirtualBox
-[A Detailed Guide on Installing Kali Linux on Virtualbox](https://www.blackmoreops.com/2014/04/08/detailed-guide-installing-kali-linux-on-virtualbox/) - blackMORE Ops
-
-
-# Cool Sites
-
-## Force Graph Drawer
-[Graph Drawer](http://g.ivank.net) - Ivan Kuckir
-
-## Google Ngram Viewer
-[Ngram Viewer](https://books.google.com/ngrams) - Google
-
-## How Secure Is My Password
-[How Secure Is My Password](https://howsecureismypassword.net/) - Small Hadron Collider / Dashlane
-
-
-# Resources
-
-## Stack Overflow
-[Stack Overflow](https://stackoverflow.com/) - Stack Exchange Inc.
-
-## Understanding Zip Bombs
-[Zip Bombs](http://xeushack.com/zip-bomb) - XeusHack.com
