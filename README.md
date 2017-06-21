@@ -13,6 +13,7 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
     - [How Secure Is My Password](#how-secure-is-my-password)
   - [Guides](#guides)
     - [Installing Kali on VirtualBox](#installing-kali-on-virtualbox)
+    - [Raspberry Pi 3 Headless](#raspberry-pi-3-headless)
   - [Languages](#languages)
     - [HTML5 / CSS3](#html5--css3)
     - [Python 3](#python-3)
@@ -67,6 +68,9 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
 
 ## Installing Kali on VirtualBox
 [A Detailed Guide on Installing Kali Linux on Virtualbox](https://www.blackmoreops.com/2014/04/08/detailed-guide-installing-kali-linux-on-virtualbox/) - blackMORE Ops
+
+## Raspberry Pi 3 Headless
+[Raspberry Pi 3 Raspbian Jessie with WiFi, SSH, Headless Setup with No Keyboard or Ethernet](https://caffinc.github.io/2016/12/raspberry-pi-3-headless/) - Caffinc Blog
 
 
 # Languages
