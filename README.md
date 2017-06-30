@@ -33,6 +33,7 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
   - [Tools](#tools)
     - [Software](#software)
       - [Bulk Renamer Utility](#bulk-renamer-utility)
+      - [Etcher](#etcher)
       - [Notepad++](#notepad)
       - [spidy Web Crawler](#spidy-web-crawler)
       - [SDR#](#sdr)
@@ -125,6 +126,9 @@ Tools are (usually) small softwares that are designed with one task in mind and 
 ### Bulk Renamer Utility
 [Bulk Renamer Utility](http://www.bulkrenameutility.co.uk/Main_Intro.php) - Bulk Rename Utility
 Free File Rename Utility for Windows. Rename multiple files with the click of a button. Batch renaming made easy.
+
+### Etcher
+[Etcher](https://etcher.io/) - resin.io
 
 ### Notepad++
 [Notepad++](#https://notepad-plus-plus.org/) - Don Ho
