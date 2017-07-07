@@ -32,6 +32,7 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
   - [Snippets](#snippets)
   - [Tools](#tools)
     - [Software](#software)
+      - [Album Art Downloader](#album-art-downloader)
       - [Bulk Renamer Utility](#bulk-renamer-utility)
       - [Etcher](#etcher)
       - [Notepad++](#notepad)
@@ -122,6 +123,9 @@ A Python library for processing HTML and XML.
 Tools are (usually) small softwares that are designed with one task in mind and do that thing very well.
 
 ## Software
+
+### Album Art Downloader
+[Album Art](https://sourceforge.net/projects/album-art/) - alexvallat, marclandis
 
 ### Bulk Renamer Utility
 [Bulk Renamer Utility](http://www.bulkrenameutility.co.uk/Main_Intro.php) - Bulk Rename Utility
