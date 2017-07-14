@@ -59,7 +59,8 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
 # Apps
 
 ## CodeHub
-
+[CodeHub](http://codehub-app.com/) - thedillonb<br>
+An unnofficial app (currently only iOS, Android in dev mode) for GitHub. It's good, too!
 
 # Cool Sites
 
@@ -91,10 +92,9 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
 
 
 # Libraries
-Libraries are 
 
 ## lxml
-[lxml](http://lxml.de/)
+[lxml](http://lxml.de/)<br>
 A Python library for processing HTML and XML.
 
 ## Requests
@@ -135,7 +135,7 @@ Tools are (usually) small softwares that are designed with one task in mind and 
 [Album Art](https://sourceforge.net/projects/album-art/) - alexvallat, marclandis
 
 ### Bulk Renamer Utility
-[Bulk Renamer Utility](http://www.bulkrenameutility.co.uk/Main_Intro.php) - Bulk Rename Utility
+[Bulk Renamer Utility](http://www.bulkrenameutility.co.uk/Main_Intro.php) - Bulk Rename Utility<br>
 Free File Rename Utility for Windows. Rename multiple files with the click of a button. Batch renaming made easy.
 
 ### Etcher
@@ -161,9 +161,9 @@ Free File Rename Utility for Windows. Rename multiple files with the click of a 
 [Document Converter](#https://docupub.com/pdfconvert/) - Neevia Tech
 
 ### dr.tl
-[dr.tl](http://dr.tl/) - RitmoHost
-dr.tl is my personal favorite link shortener.
-I like it because it makes very short links, and allows me to see if people are actually clicking my links.
+[dr.tl](http://dr.tl/) - RitmoHost<br>
+dr.tl is my personal favorite link shortener.<br>
+I like it because it makes very short links, and allows me to see if people are actually clicking my links.<br>
 It also has other features like IP logging, so if you're into data collection that's a thing.
 
 ### PassMark CPUBenchmark
