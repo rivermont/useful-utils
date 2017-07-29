@@ -54,6 +54,7 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
       - [Steam App IDs](#steam-app-ids)
       - [Terrasavr](#terrasavr)
       - [The Alphabetizer](#the-alphabetizer)
+	  - [XML Validation](#xml-validation)
 
 
 # Apps
@@ -192,3 +193,6 @@ It also has other features like IP logging, so if you're into data collection th
 
 ### The Alphabetizer
 [Alphabetizer](http://alphabetizer.flap.tv/) - Chad Lieberman
+
+### XML Validation
+[XML Validation](http://www.xmlvalidation.com/)
