@@ -42,6 +42,7 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
       - [SDR#](#sdr)
       - [Visual Watermark](#visual-watermark)
     - [Websites](#websites)
+      - [Base64 Image](#base64-image)
       - [Changelly](#changelly)
       - [docuPub Document Converter](#docupub-document-converter)
       - [dr.tl](#drtl)
@@ -154,6 +155,9 @@ Free File Rename Utility for Windows. Rename multiple files with the click of a 
 ## Visual Watermark
 
 ## Websites
+
+## Base64 Image
+[Base64 Image](https://www.base64-image.de/) - Dominik Hanke
 
 ### Changelly
 [Changelly](https://changelly.com/) - MinerGate
