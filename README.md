@@ -9,6 +9,9 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
 
   - [Apps](#apps)
     - [CodeHub](#codehub)
+  - [Code Editors](#code-editors)
+    - [Brackets](#brackets)
+    - [PyCharm Community](#pycharm-community)
   - [Cool Sites](#cool-sites)
     - [Force Graph Drawer](#force-graph-drawer)
     - [Google Ngram Viewer](#google-ngram-viewer)
@@ -23,7 +26,6 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
     - [lxml](#lxml)
     - [Requests](#requests)
   - [Programs](#programs)
-    - [Brackets](#brackets)
     - [Discord](#discord)
     - [GitHub Desktop](#github-desktop)
     - [Rainmeter](#rainmeter)
@@ -57,12 +59,25 @@ A collection of resources, tools, libraries, etc. that I have found useful and w
       - [The Alphabetizer](#the-alphabetizer)
 	  - [XML Validation](#xml-validation)
 
+***
 
 # Apps
 
 ## CodeHub
-[CodeHub](http://codehub-app.com/) - thedillonb<br>
+[CodeHub](http://codehub-app.com/) - [thedillonb](https://github.com/thedillonb)<br>
 An unnofficial app (currently only iOS, Android in dev mode) for GitHub. It's good, too!
+
+
+# Code Editors
+
+## Brackets
+[Brackets.io](http://brackets.io/)<br>
+"A modern, open source text editor that understands web design."
+
+Brackets is aimed mainly at web developers, so it won't seem all that special if you don't make websites. I loved the interface when I was hooked on web dev, but since moving on to Python I've switched over to PyCharm.
+
+## PyCharm Community
+
 
 # Cool Sites
 
@@ -104,8 +119,6 @@ A Python library for processing HTML and XML.
 
 
 # Programs
-
-## Brackets
 
 ## Discord
 
@@ -152,7 +165,7 @@ Free File Rename Utility for Windows. Rename multiple files with the click of a 
 ### spidy Web Crawler
 [spidy](https://github.com/rivermont/spidy) - rivermont
 
-## Visual Watermark
+### Visual Watermark
 
 ## Websites
 
@@ -200,3 +213,5 @@ It also has other features like IP logging, so if you're into data collection th
 
 ### XML Validation
 [XML Validation](http://www.xmlvalidation.com/)
+
+***
